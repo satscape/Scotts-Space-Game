@@ -1,1 +1,1 @@
-# Scott-s-Space-Game
+# Scotts-Space-Game
